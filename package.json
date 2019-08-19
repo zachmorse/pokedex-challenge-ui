@@ -1,0 +1,10 @@
+{
+  "name": "root",
+  "private": true,
+  "scripts": {
+    "start": "cd packages/api && npm start & cd packages/ui && npm start"
+  },
+  "devDependencies": {
+    "lerna": "^3.16.4"
+  }
+}
