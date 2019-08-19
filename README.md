@@ -18,6 +18,10 @@ To run the UI or the API locally, view the `README.md` files present in each dir
 
 _Note: In order to avoid any discrepancies running the dev servers, please make sure you're using Node v10.16.0._
 
+## Next Steps
+
+Now that you've gotten everything up and running, take a look at the Bug report and the Feature request below. You'll probably want to fix the bug first before implementing the new feature. Once those two things are complete, you've completed the challenge! Good luck!
+
 # The Bug
 
 ## Description
