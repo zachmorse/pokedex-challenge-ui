@@ -20,7 +20,7 @@ _Note: In order to avoid any discrepancies running the dev servers, please make 
 
 ## Next Steps
 
-Now that you've gotten everything up and running, take a look at the Bug report and the Feature request below. For development on these, please create a branch for each piece of work (one branch for the bug fix and one branch for the feature implementation.) Make your commits to these branches and push them up, once complete. And that's all there is to it! Good luck!
+Now that you've gotten everything up and running, take a look at the Bug report and the Feature request below. For development on these, please create a branch for each piece of work (one branch for the bug fix and one branch for the feature implementation.) Make your commits to these branches and push them up to your forked repository, once complete. And that's all there is to it! Good luck!
 
 # The Bug
 
