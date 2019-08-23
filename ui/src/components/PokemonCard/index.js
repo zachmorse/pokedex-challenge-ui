@@ -4,6 +4,7 @@ import { CardMedia } from '@material-ui/core'
 import * as S from './styled'
 
 export default function Tile({ pokemon, isSmall, animateHovering }) {
+  console.log(pokemon);
   return (
     <S.Card isSmall={isSmall} animateHovering={animateHovering}>
       {isSmall ? (

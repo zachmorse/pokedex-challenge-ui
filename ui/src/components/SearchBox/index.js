@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import Downshift from 'downshift'
-import { Paper, Popper } from '@material-ui/core'
+import { Paper, Popper, Select } from '@material-ui/core'
 import _ from 'lodash'
 import { navigate } from '@reach/router'
 
@@ -8,7 +8,7 @@ import * as S from './styled'
 
 function renderInput(inputProps) {
   const { InputProps, ref, ...other } = inputProps
-
+  console.log(InputProps);
   return (
     <S.Input
       InputProps={{
